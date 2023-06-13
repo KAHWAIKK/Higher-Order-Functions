@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: coral;
+}
+h1{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
